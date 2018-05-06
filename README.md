@@ -5,5 +5,5 @@ We cycle is an app designed to help users categorize materials for recylcing. Th
 
 
 Resources used:
-https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2/index.html?index=..%2F..%2Findex#7
-https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0
+https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2/index.html?index=..%2F..%2Findex#7 /n
+https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0 /n
