@@ -1,6 +1,6 @@
 # weCycle
 
-We cycle is an app designed to help users categorize materials for recylcing. The app uses a neural network to learn which materials are recyclable and give advice. Using TensorFlow MobileNet, it an recognize 10 categories of items and provide instructions on how to recycle them.
+weCycle is an app designed to help users categorize materials for recyling. The app uses a neural network to learn which materials are recyclable and give advice. Using TensorFlow MobileNet, it an recognize 10 categories of items and provide instructions on how to recycle them.
 
 ## Convolutional Neural Network
 
