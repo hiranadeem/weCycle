@@ -1,11 +1,11 @@
 # weCycle
 
-weCycle is an app designed to help users categorize materials for recyling. The app uses a neural network to learn which materials are recyclable and give advice. Using TensorFlow MobileNet, it an recognize 10 categories of items and provide instructions on how to recycle them.
+weCycle is an app designed to help users categorize materials for recyling. The app uses a neural network to learn which materials are recyclable and give advice.
 
-## Convolutional Neural Network
+## Convolutional Neural Network - TensorFlow MobileNet
 
 The app utilizes a neural network to recognize 11 categories of object that are then classified as recyclable or garbage.
-The network was created using a 25 layers pretrained model , MobileNet, which includs 5 convolutional layers. 
+The network was created using a 25 layers pretrained model , MobileNet, which includes 5 convolutional layers. 
 
 ## Databases
 
@@ -27,4 +27,4 @@ Modifications:
 * https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0 
 * https://www.tensorflow.org/mobile/tflite/
 * https://developer.android.com/guide/
-* stackoverflow.com
+* https://stackoverflow.com
